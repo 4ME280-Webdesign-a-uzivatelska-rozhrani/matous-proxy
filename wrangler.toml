@@ -1,0 +1,9 @@
+name = "matous-proxy"
+type = "javascript"
+
+account_id = "TVŮJ_CLOUDFLARE_ACCOUNT_ID" # Sem doplníš ručně
+workers_dev = true
+compatibility_date = "2024-05-01"
+
+[vars]
+JSONBIN_KEY = "$2a$10$5DRJeXgvJ51hdZLqY5dageFQbTD6qCQGuO3KsWS6iRTiZpmOrUwiG"
